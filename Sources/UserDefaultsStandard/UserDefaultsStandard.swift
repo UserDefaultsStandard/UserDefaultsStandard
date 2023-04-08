@@ -40,5 +40,6 @@ public class StoreProjectKey {
         case isMute
         case score
         case isMusic
+        case isTelegramOpen
     }
 }
